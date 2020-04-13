@@ -1,0 +1,52 @@
+SIMAN Run Controller.
+
+0.47275317 Hours>
+                                      ARENA Simulation Results
+                                     Trekirk - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 3/24/2020
+Analyst: None                                                        Model revision date: 3/24/2020
+
+Replication ended at time      : 24.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Pieza.VATime                                .00000     (Insuf)    .00000     .00000        270    
+Pieza.NVATime                               .00000     (Insuf)    .00000     .00000        270    
+Pieza.WaitTime                              .35705     (Insuf)    .00000     .90713        270    
+Pieza.TranTime                              .00000     (Insuf)    .00000     .00000        270    
+Pieza.OtherTime                             .08020     (Insuf)    2.5842E-04 .50820        270    
+Pieza.TotalTime                             .43724     (Insuf)    .00129     .93135        270    
+Cola.Queue.WaitingTime                      .35573     (Insuf)    .00000     .90713        271    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Pieza.WIP                                   4.9208     (Corr)     .00000     18.000     1.0000    
+Robot.NumberBusy                            .90410     (Insuf)    .00000     1.0000     1.0000    
+Robot.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Robot.Utilization                           .90410     (Insuf)    .00000     1.0000     1.0000    
+Cola.Queue.NumberInQueue                    4.0167     (Corr)     .00000     17.000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Pieza.NumberIn                              271.00    
+Pieza.NumberOut                             270.00    
+Robot.NumberSeized                          271.00    
+Robot.ScheduledUtilization                  .90410    
+System.NumberOut                            270.00    
+
+
+Simulation run time: 0.07 minutes.
+Simulation run complete.

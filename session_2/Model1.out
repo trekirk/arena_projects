@@ -1,0 +1,72 @@
+
+                                      ARENA Simulation Results
+                                     Trekirk - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 4/10/2020
+Analyst: Trekirk                                                     Model revision date: 4/10/2020
+
+Replication ended at time      : 2.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Pieza.VATime                                .04762     (Insuf)    .00376     .16716         59    
+Pieza.NVATime                               .00000     (Insuf)    .00000     .00000         59    
+Pieza.WaitTime                              .54397     (Insuf)    .03123     .84218         59    
+Pieza.TranTime                              .00000     (Insuf)    .00000     .00000         59    
+Pieza.OtherTime                             .15959     (Insuf)    .00949     .57138         59    
+Pieza.TotalTime                             .75118     (Insuf)    .12380     1.2583         59    
+DescargarM3.Queue.WaitingTime               .06696     (Insuf)    .01870     .16600         31    
+CargarM3.Queue.WaitingTime                  .05136     (Insuf)    .00000     .16016         34    
+CargarM2.Queue.WaitingTime                  .05896     (Insuf)    .00813     .14108         32    
+Cola1.Queue.WaitingTime                     .01602     (Insuf)    .00000     .07644        124    
+DescargarM2.Queue.WaitingTime               .06011     (Insuf)    .01164     .16338         29    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Pieza.WIP                                   39.770     (Insuf)    .00000     68.000     66.000    
+Robot1.NumberBusy                           1.0000     (Insuf)    .00000     1.0000     1.0000    
+Robot1.NumberScheduled                      1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Robot1.Utilization                          1.0000     (Insuf)    .00000     1.0000     1.0000    
+Robot2.NumberBusy                           .98993     (Insuf)    .00000     1.0000     1.0000    
+Robot2.NumberScheduled                      1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Robot2.Utilization                          .98993     (Insuf)    .00000     1.0000     1.0000    
+DescargarM3.Queue.NumberInQueue             1.0439     (Insuf)    .00000     4.0000     1.0000    
+CargarM3.Queue.NumberInQueue                .88161     (Insuf)    .00000     2.0000     1.0000    
+CargarM2.Queue.NumberInQueue                .96623     (Insuf)    .00000     2.0000     1.0000    
+Cola1.Queue.NumberInQueue                   1.0000     (Insuf)    .00000     1.0000     1.0000    
+DescargarM2.Queue.NumberInQueue             .87514     (Insuf)    .00000     3.0000     1.0000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+dM2                                              28  Infinite
+dM3                                              31  Infinite
+aM2oM3                                          117  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Pieza.NumberIn                              125.00    
+Pieza.NumberOut                             59.000    
+Robot1.NumberSeized                         124.00    
+Robot1.ScheduledUtilization                 1.0000    
+Robot2.NumberSeized                         126.00    
+Robot2.ScheduledUtilization                 .98993    
+System.NumberOut                            59.000    
+
+
+Simulation run time: 0.13 minutes.
+Simulation run complete.
