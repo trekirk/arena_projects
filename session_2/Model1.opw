@@ -2,18 +2,18 @@
 Robot1
 Robot2
 [VARIABLES]
-CargarM3.NumberOut
-CargarM2.NumberOut
 CargarM1.NumberOut
-CargarM3.NumberIn
-CargarM2.NumberIn
+CargarM2.NumberOut
+CargarM3.NumberOut
 CargarM1.NumberIn
+CargarM2.NumberIn
+CargarM3.NumberIn
 Balance de Carga.NumberOut False
 Balance de Carga.NumberOut True
-DescargarM3.NumberIn
 DescargarM2.NumberIn
-DescargarM3.NumberOut
+DescargarM3.NumberIn
 DescargarM2.NumberOut
+DescargarM3.NumberOut
 Create 1.NumberOut
 Separate 1.NumberOut Orig
 Dispose 1.NumberOut

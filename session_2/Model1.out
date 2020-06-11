@@ -4,8 +4,8 @@
 
                                   Summary for Replication 1 of 1
 
-Project: Unnamed Project                                             Run execution date : 4/10/2020
-Analyst: Trekirk                                                     Model revision date: 4/10/2020
+Project: Unnamed Project                                             Run execution date : 4/16/2020
+Analyst: Trekirk                                                     Model revision date: 4/16/2020
 
 Replication ended at time      : 2.0 Hours 
 Base Time Units: Hours
@@ -68,5 +68,5 @@ Robot2.ScheduledUtilization                 .98993
 System.NumberOut                            59.000    
 
 
-Simulation run time: 0.13 minutes.
+Simulation run time: 0.30 minutes.
 Simulation run complete.

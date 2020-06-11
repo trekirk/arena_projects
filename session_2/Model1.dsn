@@ -9,5 +9,5 @@ MaxScanRows=8
 MaxBufferSize=2048
 FIL=MS Access
 DriverId=281
-DefaultDir=C:\Users\Trekirk\Documents
-DBQ=C:\Users\Trekirk\Desktop\Arena\Model1.accdb
+DefaultDir=c:\Users\Trekirk\Documents\GitHub\arena_projects\session_2
+DBQ=C:\Users\Trekirk\Documents\GitHub\arena_projects\session_2\Model1.accdb
